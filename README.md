@@ -19,8 +19,7 @@ Provide modern Web capabilities to offer users a very similar kind of experience
       <meta name="theme-color" content="#488aff">
       ```
   3. My PWA's index.html includes the following iOS specific meta tags:
-      Note: Add viewport-fit=cover to your "viewport" meta tag (to fix the iPhone X "notch" issue):
-      
+      Note : Add viewport-fit=cover to your "viewport" meta tag (to fix the iPhone X "notch" issue) :
       ```html
       <meta name="apple-mobile-web-app-capable" content="yes">
       <meta name="apple-mobile-web-app-title" content="Brew">
