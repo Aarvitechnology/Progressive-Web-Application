@@ -20,7 +20,7 @@ Provide modern Web capabilities to offer users a very similar kind of experience
       ```
   3. My PWA's index.html includes the following iOS specific meta tags:
   
-      Note : Add viewport-fit=cover to your "viewport" meta tag (to fix the iPhone X "notch" issue) :
+      *Note : Add viewport-fit=cover to your "viewport" meta tag (to fix the iPhone X "notch" issue) :
       ```html
       <meta name="apple-mobile-web-app-capable" content="yes">
       <meta name="apple-mobile-web-app-title" content="Brew">
@@ -41,10 +41,10 @@ Provide modern Web capabilities to offer users a very similar kind of experience
   add your application javascript file in all html pages. I include app.js in all html files.
   8. Deploy your progressive web app
   9. Use your progressive web app in Android
-
+    
     Note : To Show ICON and SPALSH SCREEN in IOS Mobile ApplicationUser have to doconfigure icon and splash screen in index.html (base File) in a  head section  , Follow the below Link to congigure icon in IOS :
     
-https://developer.apple.com/library/archive/documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html 
+[ConfiguringWebApplications](https://developer.apple.com/library/archive/documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html) 
 
-https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/adaptivity-and-layout/#device-screen-sizes-and-orientations 
+[device-screen-sizes-and-orientations](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/adaptivity-and-layout/#device-screen-sizes-and-orientations)
 
